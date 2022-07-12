@@ -36,6 +36,7 @@ class MainActivity : AppCompatActivity() {
             override fun onAdFailedToLoad(adError: LoadAdError) {
                 Log.d(TAG, adError.message)
                 mInterstitialAd = null
+                //
             }
 
             override fun onAdLoaded(interstitialAd: InterstitialAd) {
