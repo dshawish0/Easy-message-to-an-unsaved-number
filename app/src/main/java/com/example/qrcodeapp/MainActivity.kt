@@ -1,4 +1,4 @@
-package com.example.qrcodeapp
+package com.deiaa.qrcodeapp
 
 import android.content.Intent
 import android.net.Uri

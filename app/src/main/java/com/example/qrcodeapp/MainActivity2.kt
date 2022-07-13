@@ -1,4 +1,4 @@
-package com.example.qrcodeapp
+package com.deiaa.qrcodeapp
 
 import android.content.ContentValues
 import android.content.Context
